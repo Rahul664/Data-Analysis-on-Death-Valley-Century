@@ -9,4 +9,4 @@ Link for viewing more about the event info is here: https://runsignup.com/Race/C
 
 ## Note:
 <br>
-This repo is meant to be educational and contains only public data from the above-mentioned site.
+This repo is meant to be only for educational purposes and contains only public data from the site mentioned above. 
